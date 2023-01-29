@@ -4,6 +4,6 @@
     height: 100px;
 }
 
-.carousel-item {
+.carousel-item img {
     filter: brightness(50%);
 }
